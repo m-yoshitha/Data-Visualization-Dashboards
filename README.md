@@ -1,1 +1,3 @@
 # Data-Visualization-Dashboards
+## 1. [Retail Sales Analysis Dashboard](https://app.powerbi.com/reportEmbed?reportId=afc4dd1e-989e-451f-bf1e-c6234d89e831&autoAuth=true&ctid=17f1a87e-2a25-4eaa-b9df-9d439034b080 )
+This Power BI dashboard provides comprehensive insights into the sales performance of a retail store. It integrates data from products, categories, locations, and sales representatives to visualize key metrics such as total revenue, gross profit, and sales trends. The dashboard includes interactive elements like slicers and advanced visualizations to facilitate in-depth analysis and support data-driven decision-making.
